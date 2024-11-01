@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BT6" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="icon_color">@color/icon_color_dark</item>
+        <item name="selected_song_color">@color/selected_song_dark</item>
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>

@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BT6" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="icon_color">@color/icon_color_light</item>
+        <item name="selected_song_color">@color/selected_song_light</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.BT6" parent="Base.Theme.BT6" />
+</resources>

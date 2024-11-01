@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#00ff00</color>
+
+    <color name="icon_color_light">#FF000000</color> <!-- Light mode color -->
+    <color name="icon_color_dark">#FFFFFF</color> <!-- Dark mode color -->
+
+
+    <color name="selected_song_light">#00ff00</color> <!-- Light mode color -->
+    <color name="selected_song_dark">#0f4d0f</color> <!-- Dark mode color -->
+
+    <!-- Define a color for your vector icons -->
+    <color name="icon_color">?attr/icon_color</color>
+    <color name="selected_song_color">?attr/selected_song_color</color>
+</resources>
